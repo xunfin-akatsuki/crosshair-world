@@ -1,0 +1,18 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "l2hostility:hostility_guide": {
+      "viewedEntries": [
+        "l2hostility:mechanics/a5_spawner"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}
